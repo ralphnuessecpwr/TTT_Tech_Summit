@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.1.v20190606-1245_92?>
+<!--Topaz for Total Test 19.5.1.v20190606-1245_92 05.08.2019 13:43:16-->
+<interface:interface xmlns:interface="http://www.compuware.com/model/xml/interface" xmlns:listructure="http://www.compuware.com/model/xml/listructure" xmlns:properties="http://www.compuware.com/model/xml/properties" alias="" id="Unit%20Test/Interfaces/CWXTDATE.interface">
+  <interface:description></interface:description>
+  <interface:argument listructure="../Structures/CWXTCOB_EOM-SW.listructure#Unit%20Test/Structures/CWXTCOB_EOM-SW.listructure">
+    <interface:baseTypeExtension baseType="listructure:structType ../Structures/CWXTCOB_EOM-SW.listructure#EOM_SW">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:stringType ../Structures/CWXTCOB_EOM-SW.listructure#EOM_SW.EOM_SW">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+  </interface:argument>
+  <interface:argument listructure="../Structures/CWXTCOB_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_YRS-OF-SERVICE.listructure">
+    <interface:baseTypeExtension baseType="listructure:structType ../Structures/CWXTCOB_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:numberType ../Structures/CWXTCOB_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE.YRS_OF_SERVICE">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+  </interface:argument>
+  <interface:argument listructure="../Structures/CWXTCOB_RUN-DATE.listructure#Unit%20Test/Structures/CWXTCOB_RUN-DATE.listructure">
+    <interface:baseTypeExtension baseType="listructure:structType ../Structures/CWXTCOB_RUN-DATE.listructure#RUN_DATE">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:numberType ../Structures/CWXTCOB_RUN-DATE.listructure#RUN_DATE.RUN_YY">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:numberType ../Structures/CWXTCOB_RUN-DATE.listructure#RUN_DATE.RUN_MM">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:numberType ../Structures/CWXTCOB_RUN-DATE.listructure#RUN_DATE.RUN_DD">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+  </interface:argument>
+  <interface:argument listructure="../Structures/CWXTCOB_HIRE-DATE.listructure#Unit%20Test/Structures/CWXTCOB_HIRE-DATE.listructure">
+    <interface:baseTypeExtension baseType="listructure:structType ../Structures/CWXTCOB_HIRE-DATE.listructure#HIRE_DATE">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:numberType ../Structures/CWXTCOB_HIRE-DATE.listructure#HIRE_DATE.HIRE_YY">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:numberType ../Structures/CWXTCOB_HIRE-DATE.listructure#HIRE_DATE.HIRE_MM">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+    <interface:baseTypeExtension baseType="listructure:numberType ../Structures/CWXTCOB_HIRE-DATE.listructure#HIRE_DATE.HIRE_DD">
+      <properties:properties>
+        <properties:property name="usage" type="string">inout</properties:property>
+      </properties:properties>
+    </interface:baseTypeExtension>
+  </interface:argument>
+</interface:interface>

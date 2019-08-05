@@ -23,10 +23,10 @@
       </testcase:checkconditions>
       <testcase:stubs>
         <testcase:stub>../Stubs/CWXTCOB_CWXTSUBC_01.stub#Unit%20Test/Stubs/CWXTCOB_CWXTSUBC_01.stub</testcase:stub>
-        <testcase:stub>../Stubs/CWXTCOB_CWXTDATE_01.stub#Unit%20Test/Stubs/CWXTCOB_CWXTDATE_01.stub</testcase:stub>
         <testcase:stub>../Stubs/CWXTCOB_EMPFILE_FILE_01.stub#Unit%20Test/Stubs/CWXTCOB_EMPFILE_FILE_01.stub</testcase:stub>
         <testcase:stub>../Stubs/CWXTCOB_RPTFILE_FILE_01.stub#Unit%20Test/Stubs/CWXTCOB_RPTFILE_FILE_01.stub</testcase:stub>
         <testcase:stub>../Stubs/CWXTCOB_DATETIME_01.stub#Unit%20Test/Stubs/CWXTCOB_DATETIME_01.stub</testcase:stub>
+        <testcase:stub>../Stubs/CWXTCOB_CWXTDATE_01.stub#Unit%20Test/Stubs/CWXTCOB_CWXTDATE_01.stub</testcase:stub>
       </testcase:stubs>
     </testscenario:testcase>
   </testscenario:testcases>

@@ -6,7 +6,7 @@
     <stub:output listructure="../Structures/CWXTCOB_TODAYS-DATE.listructure#Unit%20Test/Structures/CWXTCOB_TODAYS-DATE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_TODAYS-DATE.listructure#TODAYS_DATE" id="arg0.TODAYS_DATE">
         <properties:properties>
-          <properties:property name="value" type="string">F1F9F0F2F2F8</properties:property>
+          <properties:property name="value" type="string">F1F9F0F8F0F2</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -16,7 +16,7 @@
         <stub:serviceName>IGZXLOCT</stub:serviceName>
         <stub:serviceArg>00026E97</stub:serviceArg>
         <stub:serviceArg>49334CC7E64A3D70</stub:serviceArg>
-        <stub:serviceArg>F2F0F1F9F0F2F2F8F0F7F4F0F2F0F6F4F0</stub:serviceArg>
+        <stub:serviceArg>F2F0F1F9F0F8F0F2F0F7F4F0F2F0F6F4F0</stub:serviceArg>
         <stub:serviceArg xsi:nil="true"/>
       </stub:dateTimeService>
     </stub:dateTimeServiceList>

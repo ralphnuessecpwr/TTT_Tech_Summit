@@ -1,0 +1,2493 @@
+
+***************** Output from TTTRUNNR *****************
+
+ STTR043I Initializing simulation environment for: COBOL V4
+ STTR043I Initializing simulation environment for: COBOL V5
+ STTR011I totaltest zTargetRunner v170200 on 2019-08-05 11:10.49��������������������������������������
+ STTR012I Options set to EXIT(),STUBS(ON),REPEAT(0),ARGTYPE(��������)
+ STTR013I Processing test suite CWXTSUBC
+ STTR014I Processing test scenario CWXTSUBC
+ STTR028I Processing test case CWXTSUBC
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR028I Processing test case ��������
+ STTR006I Executing target CWXTSUBC
+ STTR008I All targets successfully executed
+
+***************** Output from TTOUT *****************
+
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 38596028
+ ---TARGCALL---entry newTARGET: 38596028
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596098
+ ---addTargetArg---workingArea: 38596088
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38596088
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38596088
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38596098
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596098
+ ---addTargetArg---workingArea: 385960E8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 385960E8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 385960E8
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38596098
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596098
+ ---addTargetArg---workingArea: 38596128
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38596128
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38596128
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 385960F8
+ ---TARGCALL---entry newTARGET: 385960F8
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596820
+ ---addTargetArg---workingArea: 38596810
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38596810
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38596810
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38596820
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596820
+ ---addTargetArg---workingArea: 38596870
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38596870
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38596870
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38596820
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596820
+ ---addTargetArg---workingArea: 385968B0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 385968B0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 385968B0
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 38596880
+ ---TARGCALL---entry newTARGET: 38596880
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596FA8
+ ---addTargetArg---workingArea: 38596F98
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38596F98
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38596F98
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38596FA8
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596FA8
+ ---addTargetArg---workingArea: 38596FF8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38596FF8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38596FF8
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38596FA8
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38596FA8
+ ---addTargetArg---workingArea: 38597038
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38597038
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38597038
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 38597008
+ ---TARGCALL---entry newTARGET: 38597008
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38597730
+ ---addTargetArg---workingArea: 38597720
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38597720
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38597720
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38597730
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38597730
+ ---addTargetArg---workingArea: 38597780
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38597780
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38597780
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38597730
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38597730
+ ---addTargetArg---workingArea: 385977C0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 385977C0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 385977C0
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 38597790
+ ---TARGCALL---entry newTARGET: 38597790
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38597EB8
+ ---addTargetArg---workingArea: 38597EA8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38597EA8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38597EA8
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38597EB8
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38597EB8
+ ---addTargetArg---workingArea: 38597F08
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38597F08
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38597F08
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38597EB8
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38597EB8
+ ---addTargetArg---workingArea: 38597F48
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38597F48
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38597F48
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 38597F18
+ ---TARGCALL---entry newTARGET: 38597F18
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38598640
+ ---addTargetArg---workingArea: 38598630
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38598630
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38598630
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38598640
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38598640
+ ---addTargetArg---workingArea: 38598690
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38598690
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38598690
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38598640
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38598640
+ ---addTargetArg---workingArea: 385986D0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 385986D0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 385986D0
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 385986A0
+ ---TARGCALL---entry newTARGET: 385986A0
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38598DC8
+ ---addTargetArg---workingArea: 38598DB8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38598DB8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38598DB8
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38598DC8
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38598DC8
+ ---addTargetArg---workingArea: 38598E18
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38598E18
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38598E18
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38598DC8
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38598DC8
+ ---addTargetArg---workingArea: 38598E58
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38598E58
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38598E58
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 38598E28
+ ---TARGCALL---entry newTARGET: 38598E28
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38599550
+ ---addTargetArg---workingArea: 38599540
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38599540
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38599540
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38599550
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38599550
+ ---addTargetArg---workingArea: 385995A0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 385995A0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 385995A0
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38599550
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38599550
+ ---addTargetArg---workingArea: 385995E0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 385995E0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 385995E0
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 385995B0
+ ---TARGCALL---entry newTARGET: 385995B0
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38599CD8
+ ---addTargetArg---workingArea: 38599CC8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38599CC8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38599CC8
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38599CD8
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38599CD8
+ ---addTargetArg---workingArea: 38599D28
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38599D28
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38599D28
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 38599CD8
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 38599CD8
+ ---addTargetArg---workingArea: 38599D68
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 38599D68
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 38599D68
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 38599D38
+ ---TARGCALL---entry newTARGET: 38599D38
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859A460
+ ---addTargetArg---workingArea: 3859A450
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859A450
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859A450
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859A460
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859A460
+ ---addTargetArg---workingArea: 3859A4B0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859A4B0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859A4B0
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859A460
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859A460
+ ---addTargetArg---workingArea: 3859A4F0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859A4F0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859A4F0
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 3859A4C0
+ ---TARGCALL---entry newTARGET: 3859A4C0
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859ABE8
+ ---addTargetArg---workingArea: 3859ABD8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859ABD8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859ABD8
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859ABE8
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859ABE8
+ ---addTargetArg---workingArea: 3859AC38
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859AC38
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859AC38
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859ABE8
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859ABE8
+ ---addTargetArg---workingArea: 3859AC78
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859AC78
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859AC78
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 3859AC48
+ ---TARGCALL---entry newTARGET: 3859AC48
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859B370
+ ---addTargetArg---workingArea: 3859B360
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859B360
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859B360
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859B370
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859B370
+ ---addTargetArg---workingArea: 3859B3C0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859B3C0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859B3C0
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859B370
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859B370
+ ---addTargetArg---workingArea: 3859B400
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859B400
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859B400
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 3859B3D0
+ ---TARGCALL---entry newTARGET: 3859B3D0
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859BAF8
+ ---addTargetArg---workingArea: 3859BAE8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859BAE8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859BAE8
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859BAF8
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859BAF8
+ ---addTargetArg---workingArea: 3859BB48
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859BB48
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859BB48
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859BAF8
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859BAF8
+ ---addTargetArg---workingArea: 3859BB88
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859BB88
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859BB88
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 3859BB58
+ ---TARGCALL---entry newTARGET: 3859BB58
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859C280
+ ---addTargetArg---workingArea: 3859C270
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859C270
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859C270
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859C280
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859C280
+ ---addTargetArg---workingArea: 3859C2D0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859C2D0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859C2D0
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859C280
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859C280
+ ---addTargetArg---workingArea: 3859C310
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859C310
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859C310
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 3859C2E0
+ ---TARGCALL---entry newTARGET: 3859C2E0
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859CA08
+ ---addTargetArg---workingArea: 3859C9F8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859C9F8
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859C9F8
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859CA08
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859CA08
+ ---addTargetArg---workingArea: 3859CA58
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859CA58
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859CA58
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859CA08
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859CA08
+ ---addTargetArg---workingArea: 3859CA98
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859CA98
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859CA98
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---BNDTARGT---entry
+ --->>>modName = CWXTCOB , epName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  getE: rc, count = 4, rs = <0X83000800>.
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---BNDTARGT---exit
+ ---IDRDDIO---entry
+ --->>>modName = CWXTCOB , csectName = CWXTSUBC
+ ---openW_includeName---entry
+ --->>>moduleName = CWXTCOB
+  openW: rc = 0, rs = <0X00000000>.
+  includeName: rc = 0, rs = <0X00000000>.
+ ---openW_includeName---exit
+  IDRU: Creation Date = 2019214, Length = 40
+   data = c3e7c3e6e7e3e2e4c2c309394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
+   program = CWXTSUBC, ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
+ ---closeW---entry
+  closeW: rc = 0, rs = <0X00000000>
+ ---closeW---exit
+ ---IDRDDIO---exit
+ ---TARGET---entry
+ module: CWXTCOB , csect: CWXTSUBC, entry: CWXTSUBC
+ ---TARGETcxx---entry
+ ---TARGETcxx---exit
+ ---TARGET---exit newTARGET: 3859CA68
+ ---TARGCALL---entry newTARGET: 3859CA68
+ ---T addTargetCall---entry
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---CC targetCall---entry
+ CC AV ptr: 0
+ CC AVb ptr: 0
+ ---CC targetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---addTargetCall---entry
+ AV ptr: 0
+ AVb ptr: 0
+ ---addTargetCall---exit
+ ---T addTargetCall---exit
+ ---~targetCall---entry
+ ---~targetCall---exit
+ ---TARGCALL---exit
+ ---TARGARG---entry
+ length: 1
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 1
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 0
+ AV #: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859D190
+ ---addTargetArg---workingArea: 3859D180
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859D180
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859D180
+ ---TARGARG---entry
+ length: 8
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 8
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859D190
+ AV #: 1
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859D190
+ ---addTargetArg---workingArea: 3859D1E0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859D1E0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859D1E0
+ ---TARGARG---entry
+ length: 4
+ ---T addTargetArg---entry
+ ---setData---entry
+ cL: 4
+ ---setData---exit
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---addTargetArg---entry
+ AV ptr: 3859D190
+ AV #: 2
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---CC TTArgVal---entry
+ CC TTArgVal exit--- avP ptr: 0
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ gDA
+ AV ptr: 3859D190
+ ---addTargetArg---workingArea: 3859D220
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---T addTargetArg---workingArea: 3859D220
+ ---~TTArgVal---entry
+ ---~TTArgVal---exit
+ ---TARGARG--- workingArea: 3859D220

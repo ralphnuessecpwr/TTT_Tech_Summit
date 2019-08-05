@@ -225,7 +225,7 @@
     <stub:output listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F2F4</properties:property>
+          <properties:property name="value" type="string">F2F5</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -257,7 +257,7 @@
     <stub:input listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F2F4</properties:property>
+          <properties:property name="value" type="string">F2F5</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -285,7 +285,7 @@
     <stub:output listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F2F9</properties:property>
+          <properties:property name="value" type="string">F3F0</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -317,7 +317,7 @@
     <stub:input listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F2F9</properties:property>
+          <properties:property name="value" type="string">F3F0</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -345,7 +345,7 @@
     <stub:output listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F3F5</properties:property>
+          <properties:property name="value" type="string">F3F6</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -377,7 +377,7 @@
     <stub:input listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F3F5</properties:property>
+          <properties:property name="value" type="string">F3F6</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -405,7 +405,7 @@
     <stub:output listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F3F1</properties:property>
+          <properties:property name="value" type="string">F3F2</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -437,7 +437,7 @@
     <stub:input listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F3F1</properties:property>
+          <properties:property name="value" type="string">F3F2</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -585,7 +585,7 @@
     <stub:output listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F2F5</properties:property>
+          <properties:property name="value" type="string">F2F6</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -617,7 +617,7 @@
     <stub:input listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F2F5</properties:property>
+          <properties:property name="value" type="string">F2F6</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>
@@ -705,7 +705,7 @@
     <stub:output listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F3F0</properties:property>
+          <properties:property name="value" type="string">F3F1</properties:property>
         </properties:properties>
       </stub:data>
     </stub:output>
@@ -737,7 +737,7 @@
     <stub:input listructure="../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#Unit%20Test/Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure">
       <stub:data baseType="listructure:structType ../Structures/CWXTCOB_CWXTDATE_YRS-OF-SERVICE.listructure#YRS_OF_SERVICE" id="arg1.YRS_OF_SERVICE">
         <properties:properties>
-          <properties:property name="value" type="string">F3F0</properties:property>
+          <properties:property name="value" type="string">F3F1</properties:property>
         </properties:properties>
       </stub:data>
     </stub:input>

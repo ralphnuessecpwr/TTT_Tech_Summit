@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.2.v20190729-0425_142?>
+<!--Topaz for Total Test 19.5.2.v20190729-0425_142 05.08.2019 19:42:15-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1" tests="2">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1" name="00001: Check for PARM_LTH"/>
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1" name="00002: Check for PARM_DATA"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00001: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00001: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00002: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00002: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00015: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00003: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00003: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00004: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00004: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00005: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00005: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00006: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00006: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00007: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00007: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00008: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00008: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00009: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00009: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00010: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00010: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00011: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00011: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00012: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00012: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00013: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00013: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00014: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00014: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_BAD_PARM.00015: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00001: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00001: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00002: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00002: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00003: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00003: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00004: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00004: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00005: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00005: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00006: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00006: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00007: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00007: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00008: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00008: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00009: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00009: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00011: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00010: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00010: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00011: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00011: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_BAD_PARM.00012: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_BAD_PARM.00038: RPTFILE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_BAD_PARM.00001: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2" tests="2">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2" name="00001: Check for PARM_LTH"/>
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2" name="00002: Check for PARM_DATA"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00001: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00001: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00002: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00002: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00015: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00003: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00003: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00004: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00004: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00005: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00005: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00006: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00006: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00007: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00007: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00008: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00008: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00009: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00009: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00010: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00010: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00011: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00011: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00012: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00012: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00013: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00013: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00014: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00014: CWXTDATE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTDATE_BAD_PARM.00015: CWXTDATE assertion" name="CWXTDATE"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00001: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00001: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00002: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00002: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00003: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00003: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00004: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00004: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00005: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00005: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00006: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00006: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00007: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00007: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00008: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00008: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00009: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00009: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00011: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00010: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00010: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00011: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00011: CWXTSUBC assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_CWXTSUBC_BAD_PARM.00012: CWXTSUBC assertion" name="CWXTSUBC"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_RPTFILE_FILE_BAD_PARM.00038: RPTFILE assertion" tests="0">
+    <testcase classname="CWXTCOB_Unit_Tests.CWXTCOB_Scenario_BAD_PARM.00002: CWXTCOBCase2.CWXTCOB_RPTFILE_FILE_BAD_PARM.00001: RPTFILE assertion" name="RPTFILE"/>
+  </testsuite>
+</testsuites>

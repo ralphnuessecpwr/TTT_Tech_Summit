@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<XaUnit xmlns="http://www.xact.dk/xatester/v/1" xmlns:data="http://www.xact.dk/xatester/data/v/1">
+  <Test>
+    <Component label="CWXTDATE" moduleName="CWXTDATE" programExitVerify="value &lt; 8" rollback="false">
+      <Data>
+        <EOM_SW expected="N">N</EOM_SW>
+        <YRS_OF_SERVICE expected="30">27</YRS_OF_SERVICE>
+        <RUN_DATE>
+          <RUN_YY expected="19">19</RUN_YY>
+          <RUN_MM expected="2">2</RUN_MM>
+          <RUN_DD expected="28">28</RUN_DD>
+        </RUN_DATE>
+        <HIRE_DATE>
+          <HIRE_YY expected="88">88</HIRE_YY>
+          <HIRE_MM expected="2">2</HIRE_MM>
+          <HIRE_DD expected="29">29</HIRE_DD>
+        </HIRE_DATE>
+      </Data>
+    </Component>
+  </Test>
+  <MetaData>
+    <Component name="CWXTDATE" type="COBOL">
+      <INOUT>
+        <EOM_SW type="Character" length="1" bytes="1" native="X" />
+        <YRS_OF_SERVICE type="NumericDisplay" length="2" bytes="2" native="9(2)" signed="false" decimals="0" />
+        <RUN_DATE>
+          <RUN_YY type="NumericDisplay" length="2" bytes="2" native="9(2)" signed="false" decimals="0" />
+          <RUN_MM type="NumericDisplay" length="2" bytes="2" native="9(2)" signed="false" decimals="0" />
+          <RUN_DD type="NumericDisplay" length="2" bytes="2" native="9(2)" signed="false" decimals="0" />
+        </RUN_DATE>
+        <HIRE_DATE>
+          <HIRE_YY type="NumericDisplay" length="2" bytes="2" native="9(2)" signed="false" decimals="0" />
+          <HIRE_MM type="NumericDisplay" length="2" bytes="2" native="9(2)" signed="false" decimals="0" />
+          <HIRE_DD type="NumericDisplay" length="2" bytes="2" native="9(2)" signed="false" decimals="0" />
+        </HIRE_DATE>
+      </INOUT>
+    </Component>
+  </MetaData>
+</XaUnit>

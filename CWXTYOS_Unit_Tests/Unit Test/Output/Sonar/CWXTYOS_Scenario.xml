@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.2.v20190729-0425_142?>
+<!--Topaz for Total Test 19.5.2.v20190729-0425_142 21.08.2019 17:34:29-->
+<testExecutions version="1">
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14.00008: Check for HIRE_DD"/>
+  </file>
+  <file path="D:\users\cwde-rnuesse\Compuware\Workbench\workspace_1951\CWXTYOS_Unit_Tests\Unit Test\Scenarios\CWXTYOS_Scenario.testscenario">
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15.00008: Check for HIRE_DD"/>
+  </file>
+</testExecutions>

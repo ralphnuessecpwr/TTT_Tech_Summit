@@ -1,0 +1,145 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?totaltestVersion 19.5.2.v20190729-0425_142?>
+<!--Topaz for Total Test 19.5.2.v20190729-0425_142 21.08.2019 17:34:28-->
+<testsuites>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00001: CWXTYOSCase2" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00002: CWXTYOSCase3" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00003: CWXTYOSCase4" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00004: CWXTYOSCase5" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00005: CWXTYOSCase6" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00006: CWXTYOSCase7" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00007: CWXTYOSCase8" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00008: CWXTYOSCase9" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00009: CWXTYOSCase10" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00010: CWXTYOSCase11" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00011: CWXTYOSCase12" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00012: CWXTYOSCase13" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00013: CWXTYOSCase14" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+  <testsuite errors="0" failures="0" name="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" tests="8">
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00001: Check for EOM_SW"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00002: Check for YRS_OF_SERVICE"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00003: Check for RUN_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00004: Check for RUN_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00005: Check for RUN_DD"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00006: Check for HIRE_YY"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00007: Check for HIRE_MM"/>
+    <testcase classname="CWXTYOS_Unit_Tests.CWXTYOS_Scenario.00014: CWXTYOSCase15" name="00008: Check for HIRE_DD"/>
+  </testsuite>
+</testsuites>

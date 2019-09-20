@@ -1,541 +1,255 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<?totaltestVersion 19.5.2.v20190729-0425_142?>
-<!--Topaz for Total Test 19.5.2.v20190729-0425_142 05.08.2019 17:05:18-->
+<?totaltestVersion 19.5.3.v20190903-0421_179?>
+<!--Topaz for Total Test 19.5.3.v20190903-0421_179 20.09.2019 08:45:40-->
 <testExecutions version="1">
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00001: CWXTDATECase1.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00001: CWXTDATECase1.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00002: CWXTDATECase2.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00002: CWXTDATECase2.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00003: CWXTDATECase3.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00003: CWXTDATECase3.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00004: CWXTDATECase4.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00004: CWXTDATECase4.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00005: CWXTDATECase5.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00005: CWXTDATECase5.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00006: CWXTDATECase6.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00006: CWXTDATECase6.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00007: CWXTDATECase7.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00007: CWXTDATECase7.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00008: CWXTDATECase8.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00008: CWXTDATECase8.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00009: CWXTDATECase9.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00009: CWXTDATECase9.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00010: CWXTDATECase10.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00010: CWXTDATECase10.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00011: CWXTDATECase11.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00011: CWXTDATECase11.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00012: CWXTDATECase12.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00012: CWXTDATECase12.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00013: CWXTDATECase13.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00013: CWXTDATECase13.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00014: CWXTDATECase14.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00014: CWXTDATECase14.00008: Check for HIRE_DD"/>
   </file>
   <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario.00015: CWXTDATECase15.00008: Check for HIRE_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario.00015: CWXTDATECase15.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00016: Jan 10 No EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00016: Jan 10 No EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00017: Jan 30 No EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00017: Jan 30 No EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00018: Jan 31 EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00018: Jan 31 EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00019: Feb 10 No LY No EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00019: Feb 10 No LY No EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00020: Feb 27 No LY No EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00020: Feb 27 No LY No EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00001: Check for EOM_SW">
-      <failure message="Check for EOM_SW failed">Check for EOM_SW failed
-
-Actual Value:    N
-
-Expected Value:  = Y</failure>
-    </testCase>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00021: Feb 28 No LY EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00021: Feb 28 LY No EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00022: Feb 28 LY No EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00022: Feb 29 LY EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00023: Feb 29 LY EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00023: Apr 10 No EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00024: Mar 10 No EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00024: Apr 29 No EOM.00008: Check for HIRE_DD"/>
   </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00025: Mar 30 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00026: Mar 31 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00027: Apr 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00028: Apr 29 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00029: Apr 30 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00030: May 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00031: May 30 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00032: May 31 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00033: Jun 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00034: Jun 29 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00035: Jun 30 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00036: Jul 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00037: Jul 30 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00038: Jul 31 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00039: Aug 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00040: Aug 30 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00041: Aug 31 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00042: Sep 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00043: Sep 29 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00044: Sep 30 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00045: Oct 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00046: Oct 30 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00047: Oct 31 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00048: Nov 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00049: Nov 29 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00050: Nov 30 EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00051: Dec 10 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00052: Dec 30 No EOM.00008: Check for HIRE_DD"/>
-  </file>
-  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests.testscenario">
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00001: Check for EOM_SW"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00003: Check for RUN_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00004: Check for RUN_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00005: Check for RUN_DD"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00006: Check for HIRE_YY"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00007: Check for HIRE_MM"/>
-    <testCase duration="0" name="CWXTDATE_Unit_Tests.CWXTDATE_Scenario_EOM_Tests.00053: Dec 31 EOM.00008: Check for HIRE_DD"/>
+  <file path="C:\Users\cwde-rnuesse\git\TTT_Tech_Summit\CWXTDATE_Unit_Tests\Unit Test\Scenarios\CWXTDATE_Scenario_EOM_Tests2.testscenario">
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00001: Check for EOM_SW"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00002: Check for YRS_OF_SERVICE"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00003: Check for RUN_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00004: Check for RUN_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00005: Check for RUN_DD"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00006: Check for HIRE_YY"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00007: Check for HIRE_MM"/>
+    <testCase duration="0" name="CWXTDATE_Unit_Tests_TS.CWXTDATE_Scenario_EOM_Tests2.00025: Apr 30 EOM.00008: Check for HIRE_DD"/>
   </file>
 </testExecutions>

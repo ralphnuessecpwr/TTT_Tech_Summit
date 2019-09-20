@@ -51,7 +51,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -105,7 +105,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -163,7 +163,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -685,7 +685,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -869,7 +869,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -1053,7 +1053,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -1237,7 +1237,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -1421,7 +1421,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -1605,7 +1605,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -1789,7 +1789,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -1973,7 +1973,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>
@@ -2157,7 +2157,7 @@
       <testcase:checkconditions>
         <checkconditions:complexCheckcondition message="Complex check condition failed" name="Complex check condition"/>
         <checkconditions:simpleCheckcondition>
-          <checkconditions:expectation/>
+          <checkconditions:expectation></checkconditions:expectation>
         </checkconditions:simpleCheckcondition>
       </testcase:checkconditions>
       <testcase:stubs/>

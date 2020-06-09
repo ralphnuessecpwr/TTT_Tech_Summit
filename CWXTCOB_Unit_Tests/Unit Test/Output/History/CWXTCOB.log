@@ -3,7 +3,7 @@
 
  STTR043I Initializing simulation environment for: COBOL V4
  STTR043I Initializing simulation environment for: COBOL V5
- STTR011I totaltest zTargetRunner v170200 on 2019-08-05 13:41.51��������������������������������������
+ STTR011I totaltest zTargetRunner v170200 on 2019-09-26 06:45.27��������������������������������������
  STTR012I Options set to EXIT(),STUBS(ON),REPEAT(0),ARGTYPE(��������)
  STTR013I Processing test suite CWXTCOB
  STTR014I Processing test scenario CWXTCOB_
@@ -51,7 +51,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  IDRU: Creation Date = 2019214, Length = 40
+  IDRU: Creation Date = 2019269, Length = 40
    data = c3e7c3e6e7e3c3d6c24009394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
    program = CWXTCOB , ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
  ---closeW---entry
@@ -116,9 +116,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002428
- --->>>element_offset: 00002428
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002358
+ --->>>element_offset: 00002358
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -710,7 +710,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -723,7 +723,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -736,22 +736,22 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
- --->>>element_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
+ --->>>element_offset: 00002378
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
  ---BNDHOOK---exit
  ---BNDHOOK---entry
- --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 0000244C
+ --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 00002378
  ---openW_includeName---entry
  --->>>moduleName = CWXTCOB
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
  --->>>no additional elements found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -764,7 +764,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -777,9 +777,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002424
- --->>>element_offset: 00002424
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002354
+ --->>>element_offset: 00002354
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -3623,7 +3623,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  IDRU: Creation Date = 2019214, Length = 40
+  IDRU: Creation Date = 2019269, Length = 40
    data = c3e7c3e6e7e3c3d6c24009394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
    program = CWXTCOB , ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
  ---closeW---entry
@@ -3688,9 +3688,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002424
- --->>>element_offset: 00002424
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002354
+ --->>>element_offset: 00002354
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -3702,7 +3702,7 @@
  token: 00000000, 0
  assertYN: Y
  ---SUBPGMcxx---exit
- ---SUBPGM---exit  newSubPgm: 38869A20
+ ---SUBPGM---exit  newSubPgm: 388699D0
  ---SUBCALL---entry
  ---addSubCall---entry
  ---~subCall---entry
@@ -5063,9 +5063,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002428
- --->>>element_offset: 00002428
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002358
+ --->>>element_offset: 00002358
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -6152,7 +6152,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  IDRU: Creation Date = 2019214, Length = 40
+  IDRU: Creation Date = 2019269, Length = 40
    data = c3e7c3e6e7e3c3d6c24009394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
    program = CWXTCOB , ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
  ---closeW---entry
@@ -6217,9 +6217,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002424
- --->>>element_offset: 00002424
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002354
+ --->>>element_offset: 00002354
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -7592,9 +7592,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002428
- --->>>element_offset: 00002428
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002358
+ --->>>element_offset: 00002358
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -8681,7 +8681,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  IDRU: Creation Date = 2019214, Length = 40
+  IDRU: Creation Date = 2019269, Length = 40
    data = c3e7c3e6e7e3c3d6c24009394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
    program = CWXTCOB , ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
  ---closeW---entry
@@ -8746,7 +8746,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -8759,7 +8759,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -8772,22 +8772,22 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
- --->>>element_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
+ --->>>element_offset: 00002378
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
  ---BNDHOOK---exit
  ---BNDHOOK---entry
- --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 0000244C
+ --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 00002378
  ---openW_includeName---entry
  --->>>moduleName = CWXTCOB
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
  --->>>no additional elements found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -8800,7 +8800,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -8813,9 +8813,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002424
- --->>>element_offset: 00002424
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002354
+ --->>>element_offset: 00002354
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -10109,9 +10109,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002428
- --->>>element_offset: 00002428
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002358
+ --->>>element_offset: 00002358
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -12779,7 +12779,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  IDRU: Creation Date = 2019214, Length = 40
+  IDRU: Creation Date = 2019269, Length = 40
    data = c3e7c3e6e7e3c3d6c24009394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
    program = CWXTCOB , ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
  ---closeW---entry
@@ -12790,8 +12790,8 @@
  module: CWXTCOB , csect: CWXTCOB , entry: CWXTCOB#
  ---TARGETcxx---entry
  ---TARGETcxx---exit
- ---TARGET---exit newTARGET: 38B7BFC8
- ---TARGCALL---entry newTARGET: 38B7BFC8
+ ---TARGET---exit newTARGET: 38B7BF78
+ ---TARGCALL---entry newTARGET: 38B7BF78
  ---T addTargetCall---entry
  ---CC targetCall---entry
  CC AV ptr: 0
@@ -12829,7 +12829,7 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  gDA
- AV ptr: 38B7C010
+ AV ptr: 38B7BFC0
  ---addTargetArg---workingArea: 38B79248
  ---~TTArgVal---entry
  ---~TTArgVal---exit
@@ -12844,7 +12844,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -12857,7 +12857,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -12870,22 +12870,22 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
- --->>>element_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
+ --->>>element_offset: 00002378
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
  ---BNDHOOK---exit
  ---BNDHOOK---entry
- --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 0000244C
+ --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 00002378
  ---openW_includeName---entry
  --->>>moduleName = CWXTCOB
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
  --->>>no additional elements found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -12898,7 +12898,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -12911,9 +12911,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002424
- --->>>element_offset: 00002424
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002354
+ --->>>element_offset: 00002354
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -14286,9 +14286,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002428
- --->>>element_offset: 00002428
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002358
+ --->>>element_offset: 00002358
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -16819,7 +16819,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  IDRU: Creation Date = 2019214, Length = 40
+  IDRU: Creation Date = 2019269, Length = 40
    data = c3e7c3e6e7e3c3d6c24009394bdb7a1802e85c3019debb8c5dec030b190000000000000000000000
    program = CWXTCOB , ddio(27) = SALESSUP.RXN3.DEV3.LOAD.SSD
  ---closeW---entry
@@ -16830,8 +16830,8 @@
  module: CWXTCOB , csect: CWXTCOB , entry: CWXTCOB#
  ---TARGETcxx---entry
  ---TARGETcxx---exit
- ---TARGET---exit newTARGET: 38CC1100
- ---TARGCALL---entry newTARGET: 38CC1100
+ ---TARGET---exit newTARGET: 38CC10B0
+ ---TARGCALL---entry newTARGET: 38CC10B0
  ---T addTargetCall---entry
  ---CC targetCall---entry
  CC AV ptr: 0
@@ -16869,7 +16869,7 @@
  ---~TTArgVal---entry
  ---~TTArgVal---exit
  gDA
- AV ptr: 38CC1148
+ AV ptr: 38CC10F8
  ---addTargetArg---workingArea: 38CBE310
  ---~TTArgVal---entry
  ---~TTArgVal---exit
@@ -16884,7 +16884,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -16897,7 +16897,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -16910,22 +16910,22 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
- --->>>element_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
+ --->>>element_offset: 00002378
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
  ---BNDHOOK---exit
  ---BNDHOOK---entry
- --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 0000244C
+ --->>>modName = CWXTCOB , pgmName = CWXTCOB , vName = IGZXLOCT , offset = 00002378
  ---openW_includeName---entry
  --->>>moduleName = CWXTCOB
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 0000244C
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002378
  --->>>no additional elements found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -16938,7 +16938,7 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
+  getD: rc, count = 74, rs = <0X83000800>.
  --->>>element not found
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
@@ -16951,9 +16951,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002428
- --->>>element_offset: 00002428
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002358
+ --->>>element_offset: 00002358
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit
@@ -17831,9 +17831,9 @@
   openW: rc = 0, rs = <0X00000000>.
   includeName: rc = 0, rs = <0X00000000>.
  ---openW_includeName---exit
-  getD: rc, count = 76, rs = <0X83000800>.
- --->>>class_offset: 00002424
- --->>>element_offset: 00002424
+  getD: rc, count = 74, rs = <0X83000800>.
+ --->>>class_offset: 00002354
+ --->>>element_offset: 00002354
  ---closeW---entry
   closeW: rc = 0, rs = <0X00000000>
  ---closeW---exit

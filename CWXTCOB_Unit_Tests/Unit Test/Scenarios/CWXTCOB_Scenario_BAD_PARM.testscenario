@@ -28,9 +28,9 @@
       </testcase:checkconditions>
       <testcase:stubs>
         <testcase:stub>../Stubs/CWXTCOB_CWXTDATE_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_CWXTDATE_BAD_PARM.stub</testcase:stub>
-        <testcase:stub>../Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub</testcase:stub>
         <testcase:stub>../Stubs/CWXTCOB_RPTFILE_FILE_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_RPTFILE_FILE_BAD_PARM.stub</testcase:stub>
         <testcase:stub>../Stubs/CWXTCOB_EMPFILE_FILE_01.stub#Unit%20Test/Stubs/CWXTCOB_EMPFILE_FILE_01.stub</testcase:stub>
+        <testcase:stub>../Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub</testcase:stub>
       </testcase:stubs>
     </testscenario:testcase>
     <testscenario:testcase alias="" csect="CWXTCOB" encoding="1047" entrypoint="CWXTCOB#C" id="Unit%20Test/Scenarios/CWXTCOB_Scenario.testscenario%23CWXTCOBCase2" target="CWXTCOB">
@@ -58,9 +58,9 @@
       </testcase:checkconditions>
       <testcase:stubs>
         <testcase:stub>../Stubs/CWXTCOB_CWXTDATE_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_CWXTDATE_BAD_PARM.stub</testcase:stub>
-        <testcase:stub>../Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub</testcase:stub>
         <testcase:stub>../Stubs/CWXTCOB_RPTFILE_FILE_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_RPTFILE_FILE_BAD_PARM.stub</testcase:stub>
         <testcase:stub>../Stubs/CWXTCOB_EMPFILE_FILE_01.stub#Unit%20Test/Stubs/CWXTCOB_EMPFILE_FILE_01.stub</testcase:stub>
+        <testcase:stub>../Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub#Unit%20Test/Stubs/CWXTCOB_CWXTSUBC_BAD_PARM.stub</testcase:stub>
       </testcase:stubs>
     </testscenario:testcase>
   </testscenario:testcases>

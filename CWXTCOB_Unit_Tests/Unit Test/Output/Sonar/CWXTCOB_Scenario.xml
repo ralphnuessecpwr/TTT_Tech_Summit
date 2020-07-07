@@ -1,458 +1,552 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<?totaltestVersion 19.5.3.v20190903-0421_179?>
-<!--Topaz for Total Test 19.5.3.v20190903-0421_179 Sep 26, 2019 10:33:25 AM-->
+<?xml version="1.1" encoding="UTF-8"?>
+<?totaltestVersion 20.2.2.v20200429-0333_140?>
+<!--Topaz for Total Test 20.2.2.v20200429-0333_140 Jun 10, 2020 8:57:03 AM-->
 <testExecutions version="1">
   <file path="C:\Users\cwde-rnuesse.EMEA\git\TTT_Tech_Summit\CWXTCOB_Unit_Tests\Unit Test\Scenarios\CWXTCOB_Scenario.testscenario">
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for PARM_LTH"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_DATA"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.00001: Check for PARM_LTH"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.00002: Check for PARM_DATA"/>
   </file>
   <file path="C:\Users\cwde-rnuesse.EMEA\git\TTT_Tech_Summit\CWXTCOB_Unit_Tests\Unit Test\Stubs\CWXTCOB_CWXTSUBC_01.stub">
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00001: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00002: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00002: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00002: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00003: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00003: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00003: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00004: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00004: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00004: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00005: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00005: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00005: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00006: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00006: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00006: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00007: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00007: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00007: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00008: CWXTSUBC assertion.00001: Check for EMP_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00008: CWXTSUBC assertion.00002: Check for CALC_SALES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTSUBC_01.00008: CWXTSUBC assertion.00003: Check for CALC_COMMISSION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00001: 'CWXTSUBC' assertion.CWXTSUBC"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00002: 'CWXTSUBC' assertion.CWXTSUBC"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00003: 'CWXTSUBC' assertion.CWXTSUBC"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00004: 'CWXTSUBC' assertion.CWXTSUBC"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00005: 'CWXTSUBC' assertion.CWXTSUBC"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00006: 'CWXTSUBC' assertion.CWXTSUBC"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00007: 'CWXTSUBC' assertion.CWXTSUBC"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTSUBC_01'.00008: 'CWXTSUBC' assertion.CWXTSUBC"/>
   </file>
   <file path="C:\Users\cwde-rnuesse.EMEA\git\TTT_Tech_Summit\CWXTCOB_Unit_Tests\Unit Test\Stubs\CWXTCOB_RPTFILE_FILE_01.stub">
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00001: RPTFILE assertion.00001: Check for BLANK_LINE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00002: RPTFILE assertion.00001: Check for BLANK_LINE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00003: RPTFILE assertion.00001: Check for BLANK_LINE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00002: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00003: Check for EMP_RUN_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00004: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00005: Check for EMP_RUN_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00006: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00007: Check for EMP_RUN_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00008: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00009: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00010: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00011: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00012: Check for EMP_PAGE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00005: RPTFILE assertion.00001: Check for BLANK_LINE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00006: RPTFILE assertion.00001: Check for BLANK_LINE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00002: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00003: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00004: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00005: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00002: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00003: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00004: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00005: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00006: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00007: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00008: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00009: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00010: Check for FILLER9"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00011: Check for FILLER10"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00012: Check for FILLER11"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00013: Check for FILLER12"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00014: Check for FILLER13"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00015: Check for FILLER14"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00016: Check for FILLER15"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00017: Check for FILLER16"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00018: Check for FILLER17"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00009: RPTFILE assertion.00001: Check for BLANK_LINE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00003: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00005: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00007: Check for FILLER3"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00013: Check for FILLER4"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00015: Check for FILLER5"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00017: Check for FILLER6"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00019: Check for FILLER7"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00021: Check for FILLER8"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00023: RPTFILE assertion.00001: Check for BLANK_LINE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00001: Check for FILLER0"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00002: Check for FILLER1"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00003: Check for FILLER2"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00004: Check for EMP_GRAND_TOTAL"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00001: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00002: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00003: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00003: Check for EMP_RUN_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00004: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00005: Check for EMP_RUN_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00006: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00007: Check for EMP_RUN_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00008: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00009: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00010: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00011: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00004: RPTFILE assertion.00012: Check for EMP_PAGE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00005: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00006: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00003: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00004: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00007: RPTFILE assertion.00005: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00003: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00004: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00005: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00006: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00007: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00008: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00009: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00010: Check for FILLER9"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00011: Check for FILLER10"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00012: Check for FILLER11"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00013: Check for FILLER12"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00014: Check for FILLER13"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00015: Check for FILLER14"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00016: Check for FILLER15"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00017: Check for FILLER16"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00008: RPTFILE assertion.00018: Check for FILLER17"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00009: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  37</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00010: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  26</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  3300.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00011: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    750.00
+
+Expected Value:  4050.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  30</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  1000.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00012: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    850.00
+
+Expected Value:  1850.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  36</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  6000.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00013: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    825.00
+
+Expected Value:  6825.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  31</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  1120.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00014: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    1050.00
+
+Expected Value:  2170.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  25</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  5600.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00015: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    900.00
+
+Expected Value:  6500.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  36</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  6000.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00016: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    1225.00
+
+Expected Value:  7225.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  26</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00017: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  27</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00018: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  32</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00019: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  37</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  3333.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00020: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    1000.00
+
+Expected Value:  4333.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  33</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00020: Check for EMP_DTL_COMM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00021: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00002: Check for EMP_DTL_NAME"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00003: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00004: Check for EMP_DTL_REGION"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00005: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00006: Check for EMP_DTL_TYPE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00007: Check for FILLER3"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00008: Check for EMP_DTL_HIRE_MM"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00009: Check for EMP_DTL_SLASH1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00010: Check for EMP_DTL_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00011: Check for EMP_DTL_SLASH2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00012: Check for EMP_DTL_HIRE_YY"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00013: Check for FILLER4"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00014: Check for EMP_DTL_YRS_OF_SERVICE">
+      <failure message="Check for EMP_DTL_YRS_OF_SERVICE failed">Check for EMP_DTL_YRS_OF_SERVICE failed
+
+Actual Value:    0
+
+Expected Value:  36</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00015: Check for FILLER5"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00016: Check for EMP_DTL_WAGES"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00017: Check for FILLER6"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00018: Check for EMP_DTL_OT"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00019: Check for FILLER7"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00020: Check for EMP_DTL_COMM">
+      <failure message="Check for EMP_DTL_COMM failed">Check for EMP_DTL_COMM failed
+
+Actual Value:    0.00
+
+Expected Value:  6000.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00021: Check for FILLER8"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00022: RPTFILE assertion.00022: Check for EMP_DTL_TOTAL">
+      <failure message="Check for EMP_DTL_TOTAL failed">Check for EMP_DTL_TOTAL failed
+
+Actual Value:    750.00
+
+Expected Value:  6750.00</failure>
+    </testCase>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00023: RPTFILE assertion.00001: Check for BLANK_LINE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00001: Check for FILLER0"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00002: Check for FILLER1"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00003: Check for FILLER2"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_RPTFILE_FILE_01.00024: RPTFILE assertion.00004: Check for EMP_GRAND_TOTAL">
+      <failure message="Check for EMP_GRAND_TOTAL failed">Check for EMP_GRAND_TOTAL failed
+
+Actual Value:    13013.00
+
+Expected Value:  45366.00</failure>
+    </testCase>
   </file>
   <file path="C:\Users\cwde-rnuesse.EMEA\git\TTT_Tech_Summit\CWXTCOB_Unit_Tests\Unit Test\Stubs\CWXTCOB_DATETIME_01.stub">
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_DATETIME_01'.00033: 'ACCEPT DATE' assertion.ACCEPT DATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_DATETIME_01'.00033: 'ACCEPT DATE' assertion.ACCEPT DATE"/>
   </file>
   <file path="C:\Users\cwde-rnuesse.EMEA\git\TTT_Tech_Summit\CWXTCOB_Unit_Tests\Unit Test\Stubs\CWXTCOB_CWXTDATE_01.stub">
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00001: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00002: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00002: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00002: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00002: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00002: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00002: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00003: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00003: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00003: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00003: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00003: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00003: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00004: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00004: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00004: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00004: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00004: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00004: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00005: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00005: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00005: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00005: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00005: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00005: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00006: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00006: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00006: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00006: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00006: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00006: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00007: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00007: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00007: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00007: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00007: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00007: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00008: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00008: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00008: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00008: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00008: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00008: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00009: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00009: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00009: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00009: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00009: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00009: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00010: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00010: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00010: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00010: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00010: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00010: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00011: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00011: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00011: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00011: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00011: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00011: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00012: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00012: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00012: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00012: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00012: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00012: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00013: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00013: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00013: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00013: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00013: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00013: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00001: Check for END_OF_MONTH_SW"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00002: Check for YRS_OF_SERVICE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00003: Check for TODAYS_DATE"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00004: Check for WA_EMP_HIRE_YY"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00005: Check for WA_EMP_HIRE_MM"/>
-    <testCase duration="0" name="CWXTCOB_Unit_Tests_TS.CWXTCOB_Scenario.00001: CWXTCOBCase1.CWXTCOB_CWXTDATE_01.00014: CWXTDATE assertion.00006: Check for WA_EMP_HIRE_DD"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00034: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00035: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00036: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00037: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00038: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00039: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00040: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00041: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00042: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00043: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00044: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00045: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00046: 'CWXTDATE' assertion.CWXTDATE"/>
+    <testCase duration="0" name="CWXTCOB_Unit_Tests.CWXTCOB_Scenario.00001: CWXTCOBCase1.Stub: 'CWXTCOB_CWXTDATE_01'.00047: 'CWXTDATE' assertion.CWXTDATE"/>
   </file>
 </testExecutions>

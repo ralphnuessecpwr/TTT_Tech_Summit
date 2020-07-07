@@ -1,14 +1,15 @@
 
 ***************** Output from TTTRUNNR *****************
 
+ CEE3740I The following messages pertain to the system default run-time options.
+ CEE3768I The system default for the run-time option DEBUG could not be overridden.
+ CEE3768I The system default for the run-time option TEST could not be overridden.
  STTR043I Initializing simulation environment for: COBOL V4
  STTR043I Initializing simulation environment for: COBOL V5
- STTR011I totaltest zTargetRunner v170200 on 2020-06-09 06:11.12��������������������������������������
+ STTR011I totaltest zTargetRunner v170200 on 2020-06-10 03:23.47��������������������������������������
  STTR012I Options set to EXIT(),STUBS(ON),REPEAT(0),ARGTYPE(��������)
  STTR013I Processing test suite CWXTCOB_Scenario
  STTR014I Processing test scenario CWXTCOB_Scenario
  STTR028I Processing test case CWXTCOBCase1
  STTR006I Executing target CWXTCOB#����������������������������������������������������
- CEE3207S The system detected a data exception (System Completion Code=0C7).
-          From compile unit CWXTCOB at entry point CWXTCOB at compile unit offset +000004A2 at entry offset +000004A2
-          at address 388374A2.
+ STTR008I All targets successfully executed
